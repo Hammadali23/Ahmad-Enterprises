@@ -1,6 +1,6 @@
 "use client";
 
-import { Award, Users, Target, Shield, Clock, Wrench, CheckCircle, Building2, X, Snowflake, Wind, Flame, ThermometerSun, Phone, Mail } from "lucide-react";
+import { Award, Users, Target, Shield, Clock, Wrench, CheckCircle, Building2, X, Snowflake, Wind, Flame, ThermometerSun, Phone, Mail, Droplets, Settings } from "lucide-react";
 import { useState } from "react";
 
 export default function AboutPage() {
@@ -20,19 +20,19 @@ export default function AboutPage() {
       description: "Complete AC installation, repair and maintenance services for residential and commercial spaces.",
     },
     {
-      icon: Flame,
-      title: "Heating Systems",
-      description: "Expert heating solutions including furnace installation, repair and energy-efficient upgrades.",
+      icon: Droplets,
+      title: "Chiller Systems",
+      description: "Industrial and commercial chiller installation, maintenance and repair services for optimal cooling performance.",
     },
     {
-      icon: Wind,
-      title: "Ventilation",
-      description: "Professional ventilation systems to ensure optimal air quality and circulation in your space.",
+      icon: Settings,
+      title: "Spare Parts Supply",
+      description: "Comprehensive range of genuine spare parts for chillers, AC units and cooling systems with fast delivery.",
     },
     {
-      icon: ThermometerSun,
-      title: "Climate Control",
-      description: "Advanced climate control systems for perfect temperature management year-round.",
+      icon: Wrench,
+      title: "Maintenance Services",
+      description: "Regular preventive maintenance and emergency repair services to keep your cooling systems running efficiently.",
     },
   ];
 
@@ -96,13 +96,13 @@ export default function AboutPage() {
         <div className="bg-gray-600 relative max mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20 md:py-24 lg:py-16 mb-6">
           <div className="text-center">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 leading-tight px-2">
-              HVAC & R Service Provider
+              HVAC & R Support Provider
               <br />
               <span className="text-black">Under One Roof</span>
                <div className="w-64 h-1 bg-red-600 mx-auto mb-4"></div>
             </h1>
             <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-white max-w-3xl mx-auto leading-relaxed px-4">
-              Ahmed Enterprises - 20+ Years of Excellence in Complete Heating, Ventilation & Air Conditioning Solutions
+              Ahmad Enterprises - 20+ Years of Excellence in Complete Heating, Ventilation & Air Conditioning Solutions
             </p>
           </div>
         </div>
@@ -144,7 +144,7 @@ export default function AboutPage() {
           <div className="space-y-4 sm:space-y-6">
             <div className="w-16 h-1 bg-red-600 mb-4"></div>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-black leading-tight">
-              About <span className="text-red-600">Ahmed Enterprises</span>
+              About <span className="text-red-600">Ahmad Enterprises</span>
             </h2>
             <div className="space-y-4 sm:space-y-5 text-gray-700 leading-relaxed text-base sm:text-lg">
               <p className="border-l-4 border-red-600 pl-4 sm:pl-6 bg-gray-50 py-3">

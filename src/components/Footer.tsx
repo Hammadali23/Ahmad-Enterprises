@@ -78,10 +78,15 @@ export default function Footer() {
               <Mail className="w-5 h-5 text-red-500" />
               <span>info@ahmad-ent.com</span>
             </li>
-            <li className="flex items-center gap-3">
-              <MapPin className="w-5 h-5 text-red-500" />
-              <span>Manga Mandi Bypass, Multan Road, Lahore</span>
-            </li>
+            <div>
+                      <h3 className="font-bold text-red-600 mb-1">
+                        Karachi Head Office
+                      </h3>
+                      <p className="text-sm text-gray-700">
+                        Office #104, 1st Floor, Al-Rehman Center, KCHS Block
+                        7&8, Shahrah-e-Faisal, Karachi
+                      </p>
+                    </div>
           </ul>
 
           {/* Social Links */}
