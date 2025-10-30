@@ -113,8 +113,8 @@ export default function HomePage() {
         </div>
 
         {/* Hero Content */}
-        <div className="relative z-20 text-center text-white px-4 md:px-10 max-w-6xl">
-          <div className="mb-4 md:mb-6">
+        <div className="relative z-20 text-center text-white px-4 md:px-10 max-w-6xl ">
+          <div className="mb-4 md:mb-6 ">
             <span className="inline-block bg-white/10 backdrop-blur-sm text-white text-xs md:text-sm font-medium px-4 md:px-6 py-2 rounded-full tracking-wide border border-white/20">
               PAKISTAN'S TRUSTED HVAC PARTNER
             </span>
