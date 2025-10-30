@@ -79,14 +79,14 @@ export default function Footer() {
               <span>info@ahmad-ent.com</span>
             </li>
             <div>
-                      <h3 className="font-bold text-red-600 mb-1">
-                        Karachi Head Office
-                      </h3>
-                      <p className="text-sm text-gray-700">
-                        Office #104, 1st Floor, Al-Rehman Center, KCHS Block
-                        7&8, Shahrah-e-Faisal, Karachi
-                      </p>
-                    </div>
+              <h3 className="font-bold text-red-600 mb-1">
+                Karachi Head Office
+              </h3>
+              <p className="text-sm text-gray-700">
+                Office #104, 1st Floor, Al-Rehman Center, KCHS Block 7&8,
+                Shahrah-e-Faisal, Karachi
+              </p>
+            </div>
           </ul>
 
           {/* Social Links */}
@@ -120,9 +120,7 @@ export default function Footer() {
       <div className="border-t border-gray-200 py-4 text-center text-sm text-gray-600 bg-gray-50">
         <p>
           © {new Date().getFullYear()}{" "}
-          <span className="font-semibold text-gray-900">
-            Ahmed Enterprises
-          </span>{" "}
+          <span className="font-semibold text-gray-900">Ahmed Enterprises</span>{" "}
           | HVAC Services — All Rights Reserved
         </p>
         <p className="mt-1">
