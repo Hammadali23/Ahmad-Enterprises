@@ -10,7 +10,7 @@ export default function Footer() {
         {/* Column 1: About */}
         <div>
           <h3 className="text-2xl font-bold text-red-600 mb-4">
-            Ahmed Enterprises
+            Ahmad Enterprises
           </h3>
           <p className="text-gray-600 leading-relaxed text-sm">
             A trusted name in HVAC solutions — providing high-quality air
