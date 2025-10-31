@@ -39,7 +39,7 @@ export default function SparePartsPage() {
     },
     {
       name: "Johnson Controls",
-      img: "/johnsonlogo.jpg",
+      img: "/Johnsonlogo.jpg",
     },
     {
       name: "Daikin",
@@ -47,7 +47,7 @@ export default function SparePartsPage() {
     },
     {
       name: "Totaline",
-      img: "/Totalinelogo.png",
+      img: "/totalinelogo.png",
     },
   ];
 
