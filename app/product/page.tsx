@@ -214,17 +214,17 @@ export default function SparePartsPage() {
     {
       name: "Carrier Pressure Switch Part# HK-06UB-006 ",
       desc: "A high-quality, original Carrier safety pressure switch (Model: HK06UB006) designed for HVAC systems to monitor and control air or refrigerant pressure, ensuring safe and efficient operation.",
-      images: ["/SP-HK06UB.JPG","/SP-HK06UB-2"],
+      images: ["/SP-HK06UB.jpg","/SP-HK06UB-2"],
     },
     {
       name: "Carrier High Pressure Sensor Transducer Part# 00PPG000030600",
       desc: "A genuine Carrier pressure transducer designed for accurate high-pressure measurement in HVAC and refrigeration systems, ensuring optimal performance and safety.",
-      images: ["/TR-30600.JPG","/TR-30600.jpg"],
+      images: ["/TR-30600.jpg","/TR-30600.jpg"],
     },
     {
       name: "Carrier Low Pressure Sensor Transducer Part# 00PPG000030700",
       desc: "It is a low-pressure transducer manufactured by Carrier for use in commercial heating, ventilation, and air-conditioning (HVAC) systems. This OEM replacement part is commonly used to monitor low-side pressure in Carrier commercial chillers",
-      images: ["/TR-30700.JPEG","/TR-30700.jpeg"],
+      images: ["/TR-30700.jpeg","/TR-30700.jpeg"],
     },
      {
       name: "Carrier Transducer Part# OP/12DA-057-E",
@@ -244,7 +244,7 @@ export default function SparePartsPage() {
     {
       name: "Sporlan  Oil Filter Part# 00PPG000012800A",
       desc: "OEM external oil filter designed for Carrier chillers and HVAC systems. High-efficiency filtration of lubrication oil for screw/centrifugal compressors, rated for connection 1 inch SAE J1453, max working pressure ~32 bar",
-      images: ["/FR-12800-1.JPG","/FR-12800-2"],
+      images: ["/FR-12800-1.jpg","/FR-12800-2"],
     },
     {
       name: "Sporlan  Oil Filter Part# 00PPG000012800A",
