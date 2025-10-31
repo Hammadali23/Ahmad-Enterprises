@@ -62,7 +62,7 @@ export default function SparePartsPage() {
     },
     {
       name: "Preventive Maintenance",
-      img: "/preventive.png",
+      img: "/Preventive.png",
     },
     {
       name: "Spare Parts Replacement",
